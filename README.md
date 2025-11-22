@@ -17,3 +17,10 @@ This project analyzes NYC vehicle collision data to provide insights for improvi
 
 - SQL
 - Tableau
+
+## Project Structure
+
+├── 01_data_preparation.sql          # Data cleaning and standardization
+├── 02_overall_insights.sql          # 
+├── 03_violation_analysis.sql        # 
+├── Restaurant_Health_Inspection_Analysis_NYC.pbix  # Power BI dashboard
