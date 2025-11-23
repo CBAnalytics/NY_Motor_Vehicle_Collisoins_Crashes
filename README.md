@@ -26,3 +26,6 @@ This project analyzes NYC vehicle collision data to provide insights for improvi
 ├── 03_violation_analysis.sql        # 
 ├── Restaurant_Health_Inspection_Analysis_NYC.pbix  # Power BI dashboard
 ```
+
+## Data Cleaning and Standardization
+1. 
